@@ -1,8 +1,11 @@
 #include <stdlib.h>
 #include <time.h>
 #include <stdio.h>
-/* check the number is negative, positive or zero */
-/* Return: Always 0 (Success) */
+/**
+ * main - Entry point
+ * check the number is negative, positive or zero
+ * Return: Always 0 (Success)
+ */
 int main(void)
 {
 	int n;
