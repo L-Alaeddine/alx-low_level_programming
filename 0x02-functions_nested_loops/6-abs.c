@@ -3,6 +3,7 @@
 
 	/**
 	 * _abs - show the absolute value of an integer
+	 * Description: function abs
 	 * @n: the integer
 	 * Return: the absolute value of integer
 	 */
